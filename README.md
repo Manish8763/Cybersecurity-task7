@@ -1,16 +1,16 @@
 # Task 7 – Browser Security: Identifying & Removing Suspicious Extensions
 
-## 🎯 Objective
+##  Objective
 To learn how to identify and remove potentially harmful browser extensions and understand their security implications.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Web Browser: **Google Chrome**
 
 ---
 
-## 🔍 Extensions Reviewed
+## Extensions Reviewed
 
 | Extension Name          | Description                                 | Status     | Action Taken                     |
 |-------------------------|---------------------------------------------|------------|----------------------------------|
@@ -20,9 +20,9 @@ To learn how to identify and remove potentially harmful browser extensions and u
 
 ---
 
-## 🚨 Suspicious Extension Analysis
+## Suspicious Extension Analysis
 
-### 🔹 360 Internet Protection
+### 360 Internet Protection
 - **Version**: 2.1.57  
 - **Size**: < 1 MB  
 - **Permissions**:  
@@ -33,18 +33,18 @@ To learn how to identify and remove potentially harmful browser extensions and u
   - Overly broad permissions without clear need.
   - Unknown trust rating.
 
-🧹 **Action**: Removed due to unnecessary site-wide permissions and inactive use.
+**Action**: Removed due to unnecessary site-wide permissions and inactive use.
 
 ---
 
-## ✅ Results
+## Results
 - Removed one suspicious extension: **360 Internet Protection**.
 - Verified no unusual behavior in remaining extensions.
 - Improved awareness of extension permissions and browser hygiene.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. All Installed Extensions  
 ![All Extensions]
@@ -54,7 +54,7 @@ To learn how to identify and remove potentially harmful browser extensions and u
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 - Extensions with excessive permissions can pose serious privacy risks.
 - Even antivirus add-ons should be evaluated based on active use and permissions.
 - Always disable or remove unused extensions for better performance and security.
