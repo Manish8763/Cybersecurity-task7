@@ -1,64 +1,26 @@
-# Task 7 – Browser Security: Identifying & Removing Suspicious Extensions
+# 🛡️ Task 7: Suspicious Browser Extensions
 
-##  Objective
-To learn how to identify and remove potentially harmful browser extensions and understand their security implications.
+## 🎯 Objective
+Identify and remove harmful browser extensions to improve security and performance.
 
----
+## 🛠️ Tools
+- Google Chrome
+- Mozilla Firefox
 
-##  Tools Used
-- Web Browser: **Google Chrome**
+## 🔍 Steps Performed
+- Reviewed all extensions in both browsers.
+- Checked permissions and publisher info.
+- Kept only trusted, useful extensions.
+- Restarted browsers to check performance.
 
----
+## ✅ Findings
+- All extensions were trusted and in use.
+- No issues after restarting — performance remained smooth.
 
-## Extensions Reviewed
+## ⚠️ Risks of Malicious Extensions
+- Steal sensitive data (e.g., passwords, cookies)
+- Track browsing activity and sell data
+- Inject ads or redirect to malicious sites
 
-| Extension Name          | Description                                 | Status     | Action Taken                     |
-|-------------------------|---------------------------------------------|------------|----------------------------------|
-| Google Docs Offline     | Official extension by Google                | Trusted    | **Kept**                         |
-| McAfee WebAdvisor       | Security extension by McAfee                | Trusted    | **Kept**                         |
-| 360 Internet Protection | Unknown publisher, high permissions (read/change all data), inactive | **Suspicious** | **Removed**                     |
-
----
-
-## Suspicious Extension Analysis
-
-### 360 Internet Protection
-- **Version**: 2.1.57  
-- **Size**: < 1 MB  
-- **Permissions**:  
-  - Can read and change data on all websites.  
-  - Automatically allowed on all sites.  
-- **Issues**:
-  - Not in use (turned off).
-  - Overly broad permissions without clear need.
-  - Unknown trust rating.
-
-**Action**: Removed due to unnecessary site-wide permissions and inactive use.
-
----
-
-## Results
-- Removed one suspicious extension: **360 Internet Protection**.
-- Verified no unusual behavior in remaining extensions.
-- Improved awareness of extension permissions and browser hygiene.
-
----
-
-## Screenshots
-
-### 1. All Installed Extensions  
-![All Extensions]
-
-### 2. Details of Suspicious Extension (360 Internet Protection)  
-![360 Details]
-
----
-
-## Key Learnings
-- Extensions with excessive permissions can pose serious privacy risks.
-- Even antivirus add-ons should be evaluated based on active use and permissions.
-- Always disable or remove unused extensions for better performance and security.
-
-
-
-
+## 📌 Conclusion
+Regularly audit extensions and remove any suspicious ones to stay secure.
