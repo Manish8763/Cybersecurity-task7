@@ -47,10 +47,10 @@ To learn how to identify and remove potentially harmful browser extensions and u
 ## 📸 Screenshots
 
 ### 1. All Installed Extensions  
-![All Extensions](./Screenshot%202025-07-03%20131637.png)
+![All Extensions]
 
 ### 2. Details of Suspicious Extension (360 Internet Protection)  
-![360 Details](./Screenshot%202025-07-03%20131856.png)
+![360 Details]
 
 ---
 
@@ -59,12 +59,6 @@ To learn how to identify and remove potentially harmful browser extensions and u
 - Even antivirus add-ons should be evaluated based on active use and permissions.
 - Always disable or remove unused extensions for better performance and security.
 
----
 
-## 📁 Repo Info
-This repo includes:
-- `README.md` (this file)
-- Screenshots of the browser extensions reviewed
 
----
 
